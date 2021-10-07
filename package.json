@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmair1012/jest-another-rpg2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmair1012/jest-another-rpg2/issues"
+  },
+  "homepage": "https://github.com/tmair1012/jest-another-rpg2#readme",
+  "dependencies": {
+    "jest": "^27.2.4"
+  }
+}
